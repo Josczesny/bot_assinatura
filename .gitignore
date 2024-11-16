@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos de configuração
+.env
+.env.local
+.env.*.local
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
